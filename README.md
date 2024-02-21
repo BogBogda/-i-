@@ -1,12 +1,9 @@
-<html>
-   <title> Хом'ячки різних порід та мій хом'ячок Джумi</title>
+<html> 
      <header style="background-color:black">
-    <img src="https://zoosvit.info/wp-content/uploads/2023/10/dgungar_.jpg" height="50">
-    <a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D1%83%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%85%D0%BE%D0%BC%27%D1%8F%D1%87%D0%BE%D0%BA#:~:text=%D0%94%D0%B6%D1%83%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%20%D1%85%D0%BE%D0%BC'%D1%8F%D0%BA%20(Phodopus%20sungorus,%D0%9F%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%20%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%20%D1%82%D0%B2%D0%B0%D1%80%D0%B8%D0%BD%D0%B0.&text=%D0%94%D0%BE%D0%B2%D0%B6%D0%B8%D0%BD%D0%B0%20%D0%B4%D0%BE%2010%20%D1%81%D0%BC%2C%20%D0%B2%D0%B0%D0%B3%D0%B0,%D0%B2%20%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%8C%D0%BE%D0%BC%D1%83%202%2C5%20%D1%80%D0%BE%D0%BA%D0%B8.">Джунгарський хом'ячок</a>
- <img src="https://roadrules.com.ua/pdr-ukraini/pdr-znaki-rozmitka/rozmitka/images/2.3.2.png" width="20" height="60">
+    <img src="https://zoosvit.info/wp-content/uploads/2023/10/dgungar_.jpg" height="50">                            
+   <a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D1%83%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%85%D0%BE%D0%BC%27%D1%8F%D1%87%D0%BE%D0%BA#:~:text=%D0%94%D0%B6%D1%83%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%20%D1%85%D0%BE%D0%BC'%D1%8F%D0%BA%20(Phodopus%20sungorus,%D0%9F%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%20%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%20%D1%82%D0%B2%D0%B0%D1%80%D0%B8%D0%BD%D0%B0.&text=%D0%94%D0%BE%D0%B2%D0%B6%D0%B8%D0%BD%D0%B0%20%D0%B4%D0%BE%2010%20%D1%81%D0%BC%2C%20%D0%B2%D0%B0%D0%B3%D0%B0,%D0%B2%20%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%8C%D0%BE%D0%BC%D1%83%202%2C5%20%D1%80%D0%BE%D0%BA%D0%B8.">Джунгарський хом'ячок</a>
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Peach_the_pet_hamster.jpg"height="50px">
  <a href="https://uk.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BC%27%D1%8F%D0%BA_%D1%81%D0%B8%D1%80%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9">Сірійський хом'ячок </a>
- <img src="https://roadrules.com.ua/pdr-ukraini/pdr-znaki-rozmitka/rozmitka/images/2.3.2.png" width="20" height="60">
  <img src="https://static.ogorodniki.com/ogorod/38/l_c7517a79-2e6f-4c98-b2ea-445e55e0b138.jpg" height="50">
  <a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D1%83%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%85%D0%BE%D0%BC%27%D1%8F%D1%87%D0%BE%D0%BA">Хом'ячок Кемпбелла </a>
  </header>
@@ -56,7 +53,6 @@
  </main>
 
  <footer style="background-color:black;color:white;">
- <p style="font-size:15px">Це робота Патоки Богдана та Хом'ячка Джумі</p>
  <p>1 тел.:098 300 55 45</p>
  <p>2 тел.:095 039 08 51</p>
  </footer>
